@@ -1,0 +1,2 @@
+Sequence length: 1751
+GC content: 42.20%
